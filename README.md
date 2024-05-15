@@ -9,22 +9,33 @@ The dataset comprises customer information like demographics, purchasing behavio
 
 # Contents
 Data Cleaning: Handling missing values and outliers.
+
 Feature Engineering: Creating new features like age, relationship status, purchases count, and total expenses.
+
 Visualization: Exploring data through visualizations for insights.
+
 Data Transformation: Encoding categorical variables, scaling numerical features.
+
 Correlation Analysis: Examining relationships between variables.
 
 # Technologies Used
 Python,
+
 Pandas,
+
 NumPy,
+
 Matplotlib,
+
 Seaborn,
+
 Jupyter Notebook,
 
 # Usage
 Clone the repository,
+
 Install dependencies: pip install -r requirements.txt,
+
 Open Jupyter Notebook and run each cell,
 
 # Dataset
