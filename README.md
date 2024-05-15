@@ -15,17 +15,17 @@ Data Transformation: Encoding categorical variables, scaling numerical features.
 Correlation Analysis: Examining relationships between variables.
 
 # Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Jupyter Notebook,
 
 # Usage
-Clone the repository.
-Install dependencies: pip install -r requirements.txt.
-Open Jupyter Notebook and run each cell.
+Clone the repository,
+Install dependencies: pip install -r requirements.txt,
+Open Jupyter Notebook and run each cell,
 
 # Dataset
 Customer data includes demographics, purchasing behavior, and campaign responses:
