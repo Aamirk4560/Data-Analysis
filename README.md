@@ -30,18 +30,31 @@ Open Jupyter Notebook and run each cell.
 # Dataset
 Customer data includes demographics, purchasing behavior, and campaign responses:
 
-ID: Customer ID
-Year_Birth: Year of birth
-Education: Education level
-Marital_Status: Marital status
-Income: Annual income
-Kidhome: Children count
-Teenhome: Teenagers count
-Dt_Customer: Date of becoming a customer
-Recency: Days since last purchase
-Various purchase columns (MntWines, MntFruits, etc.)
-Marketing campaign acceptance columns (AcceptedCmp1 to 5)
-Complain: Complaint status
-Response: Latest campaign response
-Contributors
+ID: Customer ID,
+
+Year_Birth: Year of birth,
+
+Education: Education level,
+
+Marital_Status: Marital status,
+
+Income: Annual income,
+
+Kidhome: Children count,
+
+Teenhome: Teenagers count,
+
+Dt_Customer: Date of becoming a customer,
+
+Recency: Days since last purchase,
+
+Various purchase columns (MntWines, MntFruits, etc.),
+
+Marketing campaign acceptance columns (AcceptedCmp1 to 5),
+
+Complain: Complaint status,
+
+Response: Latest campaign response,
+
+# Contributors
 Aamir Ali - Creator and maintainer. Contributions via issues or pull requests are welcome.
