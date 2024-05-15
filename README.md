@@ -21,11 +21,13 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
-Usage
+
+# Usage
 Clone the repository.
 Install dependencies: pip install -r requirements.txt.
 Open Jupyter Notebook and run each cell.
-Dataset
+
+# Dataset
 Customer data includes demographics, purchasing behavior, and campaign responses:
 
 ID: Customer ID
